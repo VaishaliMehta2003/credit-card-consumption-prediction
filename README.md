@@ -17,9 +17,13 @@ The primary objective of this project is to develop a **machine learning model**
 ### Key Goals of the Project
 
 ✔ Analyze customer demographic and behavioral data
+
 ✔ Identify important factors influencing credit card spending
+
 ✔ Build predictive models to estimate future spending patterns
+
 ✔ Evaluate model performance using regression metrics
+
 ✔ Generate insights to support data-driven financial decisions
 
 By achieving these goals, banks and financial institutions can **better understand customer behavior and improve financial planning strategies**.
