@@ -113,7 +113,7 @@ All datasets were merged using a **unique customer identifier (Customer ID)** to
 
 ---
 
-## 5️⃣ Dashboard Previews 📊
+## 5️⃣  Previews 📊
 
 During the **Exploratory Data Analysis (EDA)** phase, several visualizations were created to explore the dataset and identify patterns in customer spending behavior.
 
